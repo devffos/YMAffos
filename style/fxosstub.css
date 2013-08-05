@@ -61,7 +61,6 @@ header #btnMain img {
 }
 
 header h1 {
-  background: url("images/mainsepa.png") no-repeat scroll left top;
   display: block;
   font-weight: normal;
   font-size: 2.2rem;
