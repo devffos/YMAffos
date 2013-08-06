@@ -8,7 +8,7 @@
     "32": "/applogos/logo32.png",
     "48": "/applogos/logo48.png",
     "64": "/applogos/logo64.png",
-    "128": "/logo128.png"
+    "128": "/applogos/logo128.png"
   },
   "developer": {
     "name": "Dev FFOS",
