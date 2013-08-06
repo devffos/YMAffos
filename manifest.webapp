@@ -1,7 +1,7 @@
 {
   "version": "0.0.01",
   "name": "YMAffos",
-  "launch_path": "index.html",
+  "launch_path": "/YMAffos/index.html",
   "description": "The most simple webapp for Firefox OS apps",
   "icons": {
     "16": "/applogos/logo16.png",
